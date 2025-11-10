@@ -1,4 +1,5 @@
-\# Curso de GIT, 2025
+\# Curso de GIT, noviembre, 2025
+
 
 &nbsp;
 
